@@ -28,8 +28,10 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Installation
 The following necessary dependencies must be installed to run the application properly: Node.js, dotenv, mysql, sequelize, express and a terminal.
 
-## Walkthrough Video Showcasing the App
-[A walkthrough video of the E-Commerce Back End]()
+## Walkthrough Videos Showcasing the App
+[A walkthrough video of the E-Commerce Back End Server Start](./assets/videos/Server_Start.webm)
+
+[A video of the E-commerce Back End in Insomnia](./assets/videos/Insomnia.webm)
 
 ## Run App
 The following commands are needed to run the app: source db/schema.sql, npm run seed, npm start.
