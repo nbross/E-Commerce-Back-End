@@ -42,4 +42,4 @@ The following commands are needed to run the app: source db/schema.sql, npm run 
 
 ## Repo link
 
-Git Hub Repo: https://github.com/nbross/Employee-Tracker
+Git Hub Repo: https://github.com/nbross/E-Commerce-Back-End
